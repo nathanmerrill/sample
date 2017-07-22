@@ -1,4 +1,4 @@
-#KoTHComm sample project
+# KoTHComm sample project
 
 Thanks for trying out KoTHComm!
 
@@ -7,12 +7,11 @@ I've tried to add everything you need to get started immediately on creating you
 In order to use this project:
 
 1. Create your git repo: 
-
-
+```
     git init YOUR_PROJECT
     cd YOUR_PROJECT
     git pull https://github.com/nathanmerrill/sample.git master --depth=1
-    
+```
 2. Set the project name in `settings.gradle`
 
 3. Inside of `/src/java/main`, rename the package `com.nmerrill.sample`
